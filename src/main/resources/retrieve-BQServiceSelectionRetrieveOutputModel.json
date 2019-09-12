@@ -1,0 +1,17 @@
+{
+  "serviceSelectionRetrieveActionTaskRecord" : {},
+  "serviceSelectionInstanceReport" : {
+    "serviceSelectionInstanceReport" : {},
+    "serviceSelectionInstanceReportRecord" : {},
+    "serviceSelectionInstanceReportParameters" : "serviceSelectionInstanceReportParameters",
+    "serviceSelectionInstanceReportType" : "serviceSelectionInstanceReportType"
+  },
+  "serviceSelectionRetrieveActionResponse" : "serviceSelectionRetrieveActionResponse",
+  "serviceSelectionRetrieveActionTaskReference" : "SSRATR708652",
+  "serviceSelectionInstanceAnalysis" : {
+    "serviceSelectionInstanceAnalysisReportType" : "serviceSelectionInstanceAnalysisReportType",
+    "serviceSelectionInstanceAnalysisReport" : {},
+    "serviceSelectionInstanceAnalysisRecord" : {},
+    "serviceSelectionInstanceAnalysisParameters" : "serviceSelectionInstanceAnalysisParameters"
+  }
+}

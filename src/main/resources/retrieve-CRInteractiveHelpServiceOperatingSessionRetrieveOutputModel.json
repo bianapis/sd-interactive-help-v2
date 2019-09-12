@@ -1,0 +1,16 @@
+{
+  "interactiveHelpServiceOperatingSessionRetrieveActionResponse" : "interactiveHelpServiceOperatingSessionRetrieveActionResponse",
+  "interactiveHelpServiceOperatingSessionInstanceReportRecord" : {
+    "interactiveHelpServiceOperatingSessionInstanceReportData" : "interactiveHelpServiceOperatingSessionInstanceReportData",
+    "interactiveHelpServiceOperatingSessionInstanceReportType" : "interactiveHelpServiceOperatingSessionInstanceReportType",
+    "interactiveHelpServiceOperatingSessionInstanceReport" : {}
+  },
+  "interactiveHelpServiceOperatingSessionRetrieveActionTaskReference" : "IHSOSRATR799200",
+  "interactiveHelpServiceOperatingSessionRetrieveActionTaskRecord" : {},
+  "interactiveHelpServiceOperatingSessionInstanceAnalysis" : {
+    "interactiveHelpServiceOperatingSessionInstanceAnalysisData" : "interactiveHelpServiceOperatingSessionInstanceAnalysisData",
+    "interactiveHelpServiceOperatingSessionInstanceAnalysisReportType" : "interactiveHelpServiceOperatingSessionInstanceAnalysisReportType",
+    "interactiveHelpServiceOperatingSessionInstanceAnalysisReport" : {}
+  },
+  "interactiveHelpServiceOperatingSessionInstanceRecord" : {}
+}
